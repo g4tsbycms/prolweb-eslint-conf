@@ -1,8 +1,7 @@
 # prolweb-eslint-conf
 Prolweb ESLint conf
-# Prolweb ESLint conf
 
-## Whats included?
+## libs included?
 
 - Standard config base;
 - React plugin;
