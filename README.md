@@ -1,5 +1,4 @@
 # prolweb-eslint-conf
-Prolweb ESLint conf
 
 ## libs included?
 
@@ -9,7 +8,7 @@ Prolweb ESLint conf
 - JSX a11y plugin;
 - Prettier;
 
-## Setup
+## Configs
 
 ### React (with Next.js)
 
